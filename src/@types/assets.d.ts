@@ -1,0 +1,14 @@
+declare module '*.svg' {
+  const content: any
+  export default content
+}
+
+declare module '*.png' {
+  const content: any
+  export default content
+} //tipizacija raswirenij png i svg
+
+declare module '*.scss' {
+  const content: any
+  export default content
+}
